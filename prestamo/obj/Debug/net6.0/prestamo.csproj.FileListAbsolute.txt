@@ -1,0 +1,15 @@
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\bin\Debug\net6.0\prestamo.exe
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\bin\Debug\net6.0\prestamo.deps.json
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\bin\Debug\net6.0\prestamo.runtimeconfig.json
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\bin\Debug\net6.0\prestamo.dll
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\bin\Debug\net6.0\prestamo.pdb
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.csproj.AssemblyReference.cache
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.AssemblyInfoInputs.cache
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.AssemblyInfo.cs
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.csproj.CoreCompileInputs.cache
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.dll
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\refint\prestamo.dll
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.pdb
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.genruntimeconfig.cache
+C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\ref\prestamo.dll
