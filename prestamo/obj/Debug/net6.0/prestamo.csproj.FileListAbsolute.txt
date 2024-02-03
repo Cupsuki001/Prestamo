@@ -13,3 +13,17 @@ C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\refint\pres
 C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.pdb
 C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\prestamo.genruntimeconfig.cache
 C:\Users\Sistema2-17\source\repos\prestamo\prestamo\obj\Debug\net6.0\ref\prestamo.dll
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\bin\Debug\net6.0\prestamo.exe
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\bin\Debug\net6.0\prestamo.deps.json
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\bin\Debug\net6.0\prestamo.runtimeconfig.json
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\bin\Debug\net6.0\prestamo.dll
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\bin\Debug\net6.0\prestamo.pdb
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\prestamo.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\prestamo.AssemblyInfo.cs
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\prestamo.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\prestamo.dll
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\refint\prestamo.dll
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\prestamo.pdb
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\prestamo.genruntimeconfig.cache
+C:\Users\DELL 5590\Downloads\Prestamo-main\prestamo\obj\Debug\net6.0\ref\prestamo.dll

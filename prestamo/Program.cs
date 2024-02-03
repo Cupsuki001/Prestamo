@@ -28,21 +28,16 @@ public class prest
                 
 
             } while (op <= 0 || op > 7);
-
-            montt = p.plazo1(mont);
-            montt = p.plazo2(mont);
-            montt = p.plazo3(mont);
-            montt = p.plazo4(mont);
-            montt = p.plazo5(mont);
-            montt = p.plazo6(mont);
-            montt = p.plazo7(mont);
+            
 
             switch (op) 
             {
               case 1: 
                     {
+                        montt = p.plazo1(mont);
                         Console.WriteLine("-------------------------//");
                         Console.WriteLine("Monto a prestar: "+mont);
+                        Console.WriteLine("Interes: "+ (montt - mont));
                         Console.WriteLine("Plazo: 6 meses");
                         Console.WriteLine("Monto total: " + montt);
                         Console.WriteLine("-------------------------//");
@@ -50,8 +45,10 @@ public class prest
                     break;
                 case 2:
                     {
+                        montt = p.plazo2(mont);
                         Console.WriteLine("-------------------------//");
                         Console.WriteLine("Monto a prestar: " + mont);
+                        Console.WriteLine("Interes: " + (montt - mont));
                         Console.WriteLine("Plazo: 9 meses");
                         Console.WriteLine("Monto total: " + montt);
                         Console.WriteLine("-------------------------//");
@@ -59,8 +56,10 @@ public class prest
                     break;
                 case 3:
                     {
+                        montt = p.plazo3(mont);
                         Console.WriteLine("-------------------------//");
                         Console.WriteLine("Monto a prestar: " + mont);
+                        Console.WriteLine("Interes: " + (montt - mont));
                         Console.WriteLine("Plazo: 12 meses");
                         Console.WriteLine("Monto total: " + montt);
                         Console.WriteLine("-------------------------//");
@@ -68,8 +67,10 @@ public class prest
                     break;
                 case 4:
                     {
+                        montt = p.plazo4(mont);
                         Console.WriteLine("-------------------------//");
                         Console.WriteLine("Monto a prestar: " + mont);
+                        Console.WriteLine("Interes: " + (montt - mont));
                         Console.WriteLine("Plazo: 18 meses");
                         Console.WriteLine("Monto total: " + montt);
                         Console.WriteLine("-------------------------//");
@@ -77,8 +78,10 @@ public class prest
                     break;
                 case 5:
                     {
+                        montt = p.plazo5(mont);
                         Console.WriteLine("-------------------------//");
                         Console.WriteLine("Monto a prestar: " + mont);
+                        Console.WriteLine("Interes: " + (montt - mont));
                         Console.WriteLine("Plazo: 24 meses");
                         Console.WriteLine("Monto total: " + montt);
                         Console.WriteLine("-------------------------//");
@@ -86,8 +89,10 @@ public class prest
                     break;
                 case 6:
                     {
+                        montt = p.plazo6(mont);
                         Console.WriteLine("-------------------------//");
                         Console.WriteLine("Monto a prestar: " + mont);
+                        Console.WriteLine("Interes: " + (montt - mont));
                         Console.WriteLine("Plazo: 36 meses");
                         Console.WriteLine("Monto total: " + montt);
                         Console.WriteLine("-------------------------//");
@@ -95,8 +100,10 @@ public class prest
                     break;
                 case 7:
                     {
+                        montt = p.plazo7(mont);
                         Console.WriteLine("-------------------------//");
                         Console.WriteLine("Monto a prestar: " + mont);
+                        Console.WriteLine("Interes: " + (montt - mont));
                         Console.WriteLine("Plazo: 48 meses");
                         Console.WriteLine("Monto total: " + montt);
                         Console.WriteLine("-------------------------//");

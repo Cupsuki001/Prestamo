@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NAEVxXXgf9REG29X+j7BAyihNuSa1Bd89FEi/bVXjZY7Dbtevn0pk9kHv3cMI01B77s7yVUokWwt14qcQhx5cA==",
+  "dgSpecHash": "PDr+dZH2SFwveSI0GS9rGueXZ1N7Uywp5OV2s9a4VA2JaAMvBF0VGU0FA9aKAKrHNe1VufSXlvKtaKojEBPmIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sistema2-17\\source\\repos\\prestamo\\prestamo\\prestamo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\DELL 5590\\Downloads\\Prestamo-main\\prestamo\\prestamo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
