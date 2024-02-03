@@ -7,6 +7,7 @@ public class prest
     {
 
         Class1 p = new Class1();
+        Class2 p2 = new Class2();
         double mont =0 , montt;
         int op , s;
         do 
@@ -15,7 +16,7 @@ public class prest
             do
             {
                 Console.WriteLine("BANCO LAFISE");
-                mont = p.validar("Ingrse el monto que desea: ");
+                mont = p2.validar("Ingrse el monto que desea: ");
                 Console.WriteLine("//////////////////////");
 
             }while(mont < 100 || mont > 5000);
